@@ -1,4 +1,4 @@
-# Contributors
+﻿# Contributors
 
 - [Rawad Karam](https://github.com/rawad663)
 - [Nicolas Hermet](https://github.com/Nicolas-Hermet)
@@ -1590,6 +1590,7 @@ Timothy-Brian Gosalvez
 - [João Bini](https://github.com/joaopbini)
 - [kishan Kaushik](https://github.com/kishankaushik)
 - [Quang Hoang](https://github.com/quangpro1610)
+- [Thilo Knape](https://github.com/valenar05)
 - [Sii Kim Lau](https://github.com/lausk97)
 - [Anirudh Kanakatte](https://github.com/anirudhkanakatte)
 - [Vanessa Cassandra](https://github.com/vancass)
